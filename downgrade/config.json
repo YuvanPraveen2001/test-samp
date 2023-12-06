@@ -1,0 +1,56 @@
+{
+  "latestOS3Versions" : 
+  {
+  	"BARGRAPH" : {
+  		"version" : "2.6"
+  	},
+  	"BATTERY" : {
+  		"version" : "2.8"
+  	},
+  	"BATTERY_LIPO" : {
+  		"version" : "2.8"
+  	},
+  	"BLOCKER" : {
+  		"version" : "2.6"
+  	},
+  	"BRIGHTNESS" : {
+  		"version" : "2.7"
+  	},
+  	"DISTANCE" : {
+  		"version" : "2.6"
+  	},
+  	"DRIVE" : {
+  		"version" : "2.6"
+  	},
+  	"FLASHLIGHT" : {
+  		"version" : "2.6"
+  	},
+  	"INVERSE" : {
+  		"version" : "2.6"
+  	},
+  	"KNOB" : {
+  		"version" : "2.6"
+  	},
+  	"MAXIMUM" : {
+  		"version" : "2.6"
+  	},
+  	"MINIMUM" : {
+  		"version" : "2.6"
+  	},
+  	"PASSIVE" : {
+  		"version" : "2.6"
+  	},
+  	"THRESHOLD" : {
+  		"version" : "2.6"
+  	},
+  	"ROTATE" : {
+  		"version" : "2.6"
+  	},
+  	"SPEAKER" : {
+  		"version" : "2.6"
+  	},
+  	"TEMPERATURE" : {
+  		"version" : "2.6"
+  	}  	
+  }
+}

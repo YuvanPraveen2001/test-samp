@@ -1,0 +1,8 @@
+{
+    "responseType": "getAllPersonalitySource",
+    "count": 66,
+    "timestamp": "2019-06-18 17:35:13 GMT",
+    "success": true,
+    "personalities": {
+    }
+}

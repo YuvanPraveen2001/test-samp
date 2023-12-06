@@ -1,0 +1,139 @@
+{
+  "blockTypes": {
+    "UNKNOWN": {
+      "typeId": null,
+      "name": "unknown",
+      "category": "none"
+    },
+    "BLUETOOTH": {
+      "typeId": 4,
+      "name": "bluetooth",
+      "category": "think"
+    },
+    "BLE_HAT": {
+      "typeId": 5,
+      "name": "BLE-Hat",
+      "category": "think"
+    },
+    "BARGRAPH": {
+      "typeId": 43,
+      "name": "bargraph",
+      "category": "action"
+    },
+    "BATTERY": {
+      "typeId": 2,
+      "name": "battery",
+      "category": "think"
+    },
+    "BATTERY_LIPO": {
+      "typeId": 3,
+      "name": "battery",
+      "category": "think"
+    },
+    "BLOCKER": {
+      "typeId": 1,
+      "name": "blocker",
+      "category": "think"
+    },
+    "BRIGHTNESS": {
+      "typeId": 21,
+      "name": "brightness",
+      "category": "sense"
+    },
+    "DISTANCE": {
+      "typeId": 24,
+      "name": "distance",
+      "category": "sense"
+    },
+    "DRIVE": {
+      "typeId": 45,
+      "name": "drive",
+      "category": "action"
+    },
+    "FLASHLIGHT": {
+      "typeId": 48,
+      "name": "flashlight",
+      "category": "action"
+    },
+    "INVERSE": {
+      "typeId": 61,
+      "name": "inverse",
+      "category": "think"
+    },
+    "KNOB": {
+      "typeId": 22,
+      "name": "knob",
+      "category": "sense"
+    },
+    "MAXIMUM": {
+      "typeId": 62,
+      "name": "maximum",
+      "category": "think"
+    },
+    "MINIMUM": {
+      "typeId": 63,
+      "name": "minimum",
+      "category": "think"
+    },
+    "PASSIVE": {
+      "typeId": 6,
+      "name": "passive",
+      "category": "think"
+    },
+    "THRESHOLD": {
+      "typeId": 64,
+      "name": "threshold",
+      "category": "think"
+    },
+    "ROTATE": {
+      "typeId": 46,
+      "name": "rotate",
+      "category": "action"
+    },
+    "SPEAKER": {
+      "typeId": 47,
+      "name": "speaker",
+      "category": "action"
+    },
+    "TEMPERATURE": {
+      "typeId": 25,
+      "name": "temperature",
+      "category": "sense"
+    },
+    "FACE_TEST": {
+      "typeId": 99,
+      "name": "face_test",
+      "category": "test"
+    }
+  },
+  "mcuTypes": {
+    "UNKNOWN": {
+      "typeId": null,
+      "name": "unknown"
+    },
+    "AVR": {
+      "typeId": "avr",
+      "supportedOS": [ 3 ]
+    },
+    "PIC": {
+      "typeId": "pic",
+      "supportedOS": [ 3, 4 ]
+    },
+    "CYPRESS": {
+      "typeId": "cypress",
+      "supportedOS": [ 4 ]
+    }
+  },
+  "urls": {
+    "info": "http://cubeletmfg.modrobotics.com",
+    "compile": "http://compile.modrobotics.com",
+    "firmware": "http://cubeletmfg.modrobotics.com",
+    "imagoFirmware": "firmware.modrobotics.com",
+    "personality": "devops.modrobotics.com",
+    "update": "http://cubeletmfg.modrobotics.com",
+    "kit": "http://cubeletmfg.modrobotics.com"
+  },
+  "chrome": {
+    "appId": "fehdhddkknkaeimadppmacaoclnllcjm"
+  }
+}
