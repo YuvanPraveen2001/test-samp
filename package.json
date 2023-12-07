@@ -57,7 +57,7 @@
     "pad": false
   },
   "engines": {
-    "node": "18.16.0"
+    "node": "20.9.0"
   },
   "main": "index.js",
   "devDependencies": {
