@@ -1,5 +1,5 @@
 var util = require('util')
-var Duplex = require('readable-stream').Duplex
+const { Duplex } = require('node:stream');
 
 var Connection = function (device, opts) {
   Duplex.call(this, opts)
