@@ -85,7 +85,7 @@ var CompileService = function() {
   };
   this.isConnected = function()
   {
-    return compiler.compileSocket ? compiler.compileSocket.socket.connected : false;
+    return compiler.compileSocket ? compiler.compileSocket.connected : false;
   }
   this.wasConnected = function(){
     return this._wasConnected;
