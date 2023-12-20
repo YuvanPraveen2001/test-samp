@@ -126,7 +126,7 @@
   },
   "urls": {
     "info": "http://cubeletmfg.modrobotics.com",
-    "compile": "https://f914-106-51-152-163.ngrok-free.app",
+    "compile": "https://ucompile.modrobotics.com",
     "firmware": "http://cubeletmfg.modrobotics.com",
     "imagoFirmware": "firmware.modrobotics.com",
     "personality": "devops.modrobotics.com",
