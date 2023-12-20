@@ -32,7 +32,7 @@ var CompileService = function() {
     }
 
     debug("Attempting to connect to http://compile.modrobotics.com");
-    this.compileSocket = io.connect("https://f914-106-51-152-163.ngrok-free.app:80", {
+    this.compileSocket = io.connect("https://ucompile.modrobotics.com", {
       'reconnect' : true,
       'reconnection delay' : 500,
       'max reconnection attempts' : 'Infinity'
